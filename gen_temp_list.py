@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#Python 2.7.16
 # JD Vlok 2019-07-18
 # 2019-04-16: get_all_ACORN2.py: Download all ACORN data, hq: csv
 # 2019-07-18: scrape_meta.py: Download all weather station meta data (pdf files)
