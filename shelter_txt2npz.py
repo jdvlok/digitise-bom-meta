@@ -31,19 +31,21 @@ def readtxt(fn):
 fn = './op_table5.txt' #http://www.bom.gov.au/climate/data/acorn-sat/documents/ACORN-SAT_Observation_practices_WEB.pdf 
 file_content = readtxt(fn)
 file_content = np.delete(file_content,[0,1]) #remove first two lines
-rXvec = []
+rXvec, idvec = [],[]
 for line in file_content:
  l = line.split()
- rX = shelter_record(np.int(l[-5]))
+ ID = np.int(l[-5])
+ rX = shelter_record(ID)
  rX.name = ' '.join([str(x) for x in l[0:-5]]).title()
  rX.L_start = l[-4]
  rX.L_end = l[-3]
  rX.S_start = l[-2]
  rX.S_end = l[-1]
+ idvec.append(ID)
  rXvec.append(rX)
 
 npzfile = './stevenson_dates.npz'
-np.savez_compressed(npzfile,v1=rXvec)
+np.savez_compressed(npzfile,v1=idvec,v2=rXvec)
 print 'Wrote %d records to %s'%(len(rXvec),npzfile)
 
 #write objects out again in text file:
