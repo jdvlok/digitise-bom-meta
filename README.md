@@ -36,18 +36,14 @@ drive_extract_txt.py uses pdf2txt defined in extract_txt_onepdf.py
 
 3. Run shelter_txt2npz.py to convert op_table5.txt (shelter data from http://www.bom.gov.au/climate/data/acorn-sat/documents/ACORN-SAT_Observation_practices_WEB.pdf) to stevenson_dates.npz
 
-4. Run postcode_csv2npz.py 
+4. Run postcode_csv2npz.py to convert post code data from australian_postcodes.csv (obtained from https://www.matthewproctor.com/australian_postcodes) to postcodes.npz
 
-Create directory "csvfiles", link "stations_v9a.dat" (190 MB, containing all Australian SAT data - not available here due to size constraints)
+5. Create directory "csvfiles" and link "stations_v9a.dat" (190 MB, containing all Australian SAT data - not available here due to size constraints) to current directory
 
-4. Run interpret_onetxt.py to extract meta data in one .txt file into a .csv file
+6. Run interpret_onetxt.py to extract meta data in one .txt file into a .csv file
 (i.e. process one station). This file has the following dependencies:
 4.1. interpret_classes.py containing class definitions
 4.2. stations_v9a.dat containing all SAT data (e.g. monthly Tmax of all Australian stations)
 4.3. stationsdef5.py containing class definitions of stations_v9a.dat
-
-
-
-
-
-
+4.4. stevenson_dates.npz
+4.5. postcodes.npz
