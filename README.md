@@ -28,6 +28,7 @@ ii) create AUS_SATlist.txt containing BoM station numbers of all surface air tem
 Using AUS_SATlist.txt as reference, the metadata can be extracted as follows:
 
 1. Run download_bom_meta_files.py to download (wget) all (listed in AUS_SATlist.txt) metadata from the BoM website and copy all .pdf files to ./Aug_2019_SAT/
+(Approximately 8 minutes to download 1979 .pdf files)
 
 2. Create directory "Aug2019_SAT_meta" and run drive_extract_txt.py to extract metadata in each .pdf file.
 For example IDCJMD0040.039059.SiteInfo.pdf --> meta_039059.txt
