@@ -13,4 +13,10 @@ Other parameters of interest, which are currently not listed in the meta data in
 1. The screen type (Glaisher, large or small Stevenson screen, etc.) used at each weather station
 2. Changes in the area surrounding each weather station (some information is given in the meta data)
 
-The aim is therefore to extract all relevant meta data and to create a dated list of equipment types used at each weather station.
+The aim is to extract all relevant meta data and to create a dated list of equipment types used at each weather station.
+
+The following procedure should be followed to extract and digitise the BoM metadata:
+1. Download the station list from http://www.bom.gov.au/climate/cdo/about/sitedata.shtml
+(direct link: ftp://ftp.bom.gov.au/anon2/home/ncc/metadata/sitelists/stations.zip)
+
+2. Unzip stations.zip, which contains stations.txt
