@@ -25,9 +25,10 @@ The following procedure should be followed to extract and digitise the BoM metad
 3.1 download BoM station alpha files (Tmax/Tmin monthly/daily station meta data files)
 3.2 create AUS_SATlist.txt containing BoM station numbers of all surface air temperature (SAT) measuring stations
 
-4. Run download_bom_meta_files.py to download (wget) all (listed in AUS_SATlist.txt) metadata from the BoM website
+4. Run download_bom_meta_files.py to download (wget) all (listed in AUS_SATlist.txt) metadata from the BoM website and copy all .pdf files to ./Aug_2019_SAT/
 
-5. Run drive_extract_txt.py to extract metadata in each .pdf file.
+5. Create directory "Aug2019_SAT_meta" and run drive_extract_txt.py to extract metadata in each .pdf file.
 For example IDCJMD0040.039059.SiteInfo.pdf --> meta_039059.txt
+drive_extract_txt.py uses pdf2txt defined in extract_txt_onepdf.py
 
 
