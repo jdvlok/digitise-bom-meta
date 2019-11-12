@@ -16,18 +16,20 @@ Other parameters of interest, which are currently not listed in the meta data in
 The aim is to extract all relevant meta data and to create a dated list of equipment types used at each weather station.
 
 The following procedure should be followed to extract and digitise the BoM metadata:
-1. Download the station list from http://www.bom.gov.au/climate/cdo/about/sitedata.shtml
-(direct link: ftp://ftp.bom.gov.au/anon2/home/ncc/metadata/sitelists/stations.zip)
+1. Obtain the list of stations of which the metadata should be extracted. If all weather stations are required, follow A below. If only surface air temperature (SAT) measuring stations are needed, follow B below.
 
-2. Unzip stations.zip, which contains stations.txt
+A: Download the station list from http://www.bom.gov.au/climate/cdo/about/sitedata.shtml
+(direct link: ftp://ftp.bom.gov.au/anon2/home/ncc/metadata/sitelists/stations.zip) and unzip stations.zip, which contains stations.txt
 
-3. Run gen_temp_list.py to automatically:
-3.1 download BoM station alpha files (Tmax/Tmin monthly/daily station meta data files)
-3.2 create AUS_SATlist.txt containing BoM station numbers of all surface air temperature (SAT) measuring stations
+B. Run gen_temp_list.py to automatically 
+i) download BoM station alpha files (Tmax/Tmin monthly/daily station meta data files), and 
+ii) create AUS_SATlist.txt containing BoM station numbers of all surface air temperature (SAT) measuring stations
 
-4. Run download_bom_meta_files.py to download (wget) all (listed in AUS_SATlist.txt) metadata from the BoM website and copy all .pdf files to ./Aug_2019_SAT/
+Using AUS_SATlist.txt as reference, the metadata can be extracted as follows:
 
-5. Create directory "Aug2019_SAT_meta" and run drive_extract_txt.py to extract metadata in each .pdf file.
+1. Run download_bom_meta_files.py to download (wget) all (listed in AUS_SATlist.txt) metadata from the BoM website and copy all .pdf files to ./Aug_2019_SAT/
+
+2. Create directory "Aug2019_SAT_meta" and run drive_extract_txt.py to extract metadata in each .pdf file.
 For example IDCJMD0040.039059.SiteInfo.pdf --> meta_039059.txt
 drive_extract_txt.py uses pdf2txt defined in extract_txt_onepdf.py
 
