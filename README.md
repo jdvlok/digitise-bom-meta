@@ -20,3 +20,8 @@ The following procedure should be followed to extract and digitise the BoM metad
 (direct link: ftp://ftp.bom.gov.au/anon2/home/ncc/metadata/sitelists/stations.zip)
 
 2. Unzip stations.zip, which contains stations.txt
+
+3. Run gen_temp_list.py to automatically:
+3.1 download BoM station alpha files (Tmax/Tmin monthly/daily station meta data files)
+3.2 create AUS_SATlist.txt containing BoM station numbers of all surface air temperature (SAT) measuring stations
+
