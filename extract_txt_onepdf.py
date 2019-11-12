@@ -151,7 +151,7 @@ def write_block_to_file(txtf_, txt_block):
    txtf_.write(line)
 
 
-def func(siteID,fn):
+def pdf2txt(siteID,fn):
  print 'Reading', fn
 
  pdfFileObj = open(fn, 'rb')
@@ -259,6 +259,8 @@ def func(siteID,fn):
 
  txtf.write('\n%s'%search_string4)
  write_block_to_file(txtf, block4)
+
+ txtf.write('\n')
  
  txtf.close()
  print 'Wrote filtered metadata to', meta_out_txt
@@ -278,5 +280,5 @@ if __name__ == '__main__':
  stationID = int(sys.argv[1])
  HOME = './Aug_2019_SAT'
  pdf_fn = '%s/IDCJMD0040.%06d.SiteInfo.pdf'%(HOME,stationID)
- func(stationID,pdf_fn)
+ pdf2txt(stationID,pdf_fn)
  
