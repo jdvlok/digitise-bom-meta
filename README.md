@@ -34,7 +34,11 @@ Using AUS_SATlist.txt as reference, the metadata can be extracted as follows:
 For example IDCJMD0040.039059.SiteInfo.pdf --> meta_039059.txt
 drive_extract_txt.py uses pdf2txt defined in extract_txt_onepdf.py
 
-3. Create directory "csvfiles", link "stations_v9a.dat" (190 MB, containing all Australian SAT data - not available here due to size constraints)
+3. Run shelter_txt2npz.py to convert op_table5.txt (shelter data from http://www.bom.gov.au/climate/data/acorn-sat/documents/ACORN-SAT_Observation_practices_WEB.pdf) to stevenson_dates.npz
+
+4. Run postcode_csv2npz.py 
+
+Create directory "csvfiles", link "stations_v9a.dat" (190 MB, containing all Australian SAT data - not available here due to size constraints)
 
 4. Run interpret_onetxt.py to extract meta data in one .txt file into a .csv file
 (i.e. process one station). This file has the following dependencies:
