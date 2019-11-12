@@ -34,6 +34,6 @@ Using AUS_SATlist.txt as reference, the metadata can be extracted as follows:
 For example IDCJMD0040.039059.SiteInfo.pdf --> meta_039059.txt
 drive_extract_txt.py uses pdf2txt defined in extract_txt_onepdf.py
 
-3. Create directory "csvfiles"
+3. Create directory "csvfiles", link "stations_v9a.dat" (190 MB, containing all Australian SAT data - not available here due to size constraints)
 
 
