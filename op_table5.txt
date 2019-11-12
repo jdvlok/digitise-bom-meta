@@ -1,0 +1,112 @@
+                                         Large Stevenson           Small Stevenson
+Stn name                        ID no.   Start        End          Start        End
+Kalumburu                       001019   X            X            16/09/1998   Ongoing
+Halls Creek Airport             002012   01/01/1944   25/08/1996   25/08/1996   Ongoing
+Broome Airport                  003003   X            X            01/08/1939   Ongoing
+Port Hedland Airport            004032   17/07/1942   08/10/1997   08/10/1997   Ongoing
+Marble Bar                      004106   X            X            25/09/2000   Ongoing
+Learmonth Airport               005007   01/03/1975   19/09/2006   29/08/1994   Ongoing
+Wittenoom                       005026   01/10/1951   Ongoing      X            X
+Carnarvon Airport               006011   01/01/1945   11/09/1997   11/09/1997   Ongoing
+Meekatharra Airport             007045   01/05/1950   02/05/1996   02/05/1996   Ongoing
+Dalwallinu Comparison           008039   01/06/1955   10/04/1975   10/04/1975   Ongoing
+Geraldton Airport               008051   01/09/1941   30/09/1999   30/09/1999   Ongoing
+Morawa Airport                  008296   X            X            25/02/1997   Ongoing
+Perth Airport                   009021   01/05/1944   27/10/1997   27/10/1997   Ongoing
+Bridgetown Comparison           009510   01/01/1901   15/12/1987   15/12/1987   Ongoing
+Cape Leeuwin                    009518   01/01/1900   31/10/1978   31/10/1978   Ongoing
+Albany Airport                  009741   01/04/1965   04/03/1998   04/03/1998   Ongoing
+Esperance                       009789   28/06/1969   11/05/2004   11/05/2004   Ongoing
+Merredin                        010092   X            X            14/12/1965   Ongoing
+Cunderdin Airfield              010286   X            X            20/08/1996   Ongoing
+Katanning Comparison            010579   X            X            01/01/1900   Ongoing
+Wandering                       010917   X            X            11/12/1998   Ongoing
+Eucla                           011003   01/01/1926   05/06/1976   05/06/1976   Ongoing
+Forrest                         011052   X            X            15/03/1993   Ongoing
+Kalgoorlie-Boulder Airport      012038   01/03/1939   12/08/1992   12/08/1992   Ongoing
+Giles Meteorological Office     013017   01/09/1956   26/08/2009   26/08/2009   Ongoing
+Darwin Airport                  014015   31/07/2003   02/04/2008   01/01/1941   Ongoing
+Victoria River Downs            014825   X            X            01/08/1968   Ongoing
+Tennant Creek Airport           015135   01/08/1969   Ongoing      X            X
+Alice Springs Airport           015590   01/11/1941   30/08/1998   30/08/1998   Ongoing
+Rabbit Flat                     015666   X            X            13/11/1996   Ongoing
+Woomera Aerodrome               016001   01/01/1949   03/04/2001   03/04/2001   Ongoing
+Tarcoola Aero                   016098   X            X            30/09/1997   Ongoing
+Marree Comparison               017031   X            X            01/01/1939   Ongoing
+Oodnadatta Airport              017043   01/03/1939   31/12/1985   03/11/1994   Ongoing
+Ceduna AMO                      018012   01/03/1939   26/03/1999   26/03/1999   Ongoing
+Kyancutta                       018044   X            X            18/06/1930   Ongoing
+Port Lincoln AWS                018192   X            X            02/04/1992   Ongoing
+Rayville Park                   021133   X            X            02/04/1998   Ongoing
+Cape Borda                      022823   X            X            15/07/2002   Ongoing
+Kent Town                       023090   26/08/1994   Ongoing      17/02/1977   26/08/1994
+Nurioopta Viticultural          023373   X            X            28/08/1996   Ongoing
+Mount Gambier Aero              026021   18/08/1941   20/12/2000   20/12/2000   Ongoing
+Robe Comparison                 026026   X            X            01/01/1938   Ongoing
+Weipa Aero                      027045   01/12/1992   11/11/2000   11/11/2000   Ongoing
+Horn Island                     027058   X            X            10/01/1995   Ongoing
+Palmerville                     028004   01/01/1907   23/09/1994   23/09/1994   Ongoing
+Normanton Airport               029063   X            X            10/04/2001   Ongoing
+Burketown Airport               029077   X            X            10/10/2001   Ongoing
+Richmond Post Office            030045   X            X            01/01/1908   Ongoing
+Georgetown Airport              030124   X            X            31/05/2004   Ongoing
+Cairns Aero                     031011   05/05/1941   04/10/2005   04/10/2005   Ongoing
+Townsville Aero                 032040   01/11/1940   08/12/1994   08/12/1994   Ongoing
+Mackay MO                       033119   25/09/1959   18/10/1995   18/10/1995   Ongoing
+Charters Towers Airport         034084   X            X            14/12/1992   Ongoing
+Barcaldine Post Office          036007   01/01/1900   11/09/1985   11/09/1985   Ongoing
+Longreach Aero                  036031   01/03/1966   31/05/1996   31/05/1996   Ongoing
+Camooweal Township              037010   X            X            01/01/1900   Ongoing
+Boulia Airport                  038003   X            X            01/01/1900   Ongoing
+Birdsville Airport              038026   X            X            27/06/2000   Ongoing
+Gayndah Airport                 039066   X            X            24/01/2003   Ongoing
+Rockhampton Aero                039083   01/04/1939   22/03/2000   22/03/2000   Ongoing
+Bundaberg Aero                  039128   01/02/1942   19/12/1997   19/12/1997   Ongoing
+Amberley AMO                    040004   01/09/1941   08/07/1997   08/07/1997   Ongoing
+Cape Moreton Lighthouse         040043   X            X            03/08/1995   Ongoing
+Brisbane Aero                   040842   X            X            10/12/1992   Ongoing
+Miles Constance Street          042112   X            X            10/07/1997   Ongoing
+St George Airport               043109   X            X            01/05/1997   Ongoing
+Charleville Aero                044021   01/04/1942   13/11/2003   08/12/1999   Ongoing
+Thargomindah Airport            045025   X            X            21/07/1999   Ongoing
+Tibooburra Post Office          046037   01/01/1910   01/09/1980   01/09/1980   Ongoing
+Wilcannia (Reid Street)         046043   X            X            01/01/1900   Ongoing
+Cobar MO                        048027   01/06/1962   15/11/2000   01/05/1997   Ongoing
+Bourke Airport AWS              048245   X            X            03/12/1998   Ongoing
+Walgett Airport AWS             052088   X            X            01/06/1993   Ongoing
+Moree Aero                      053115   X            X            16/06/2000   Ongoing
+Gunnedah Resource Centre        055024   01/01/1948   Ongoing      X            X
+Inverell (Raglan St)            056242   X            X            01/03/1995   Ongoing
+Yamba Pilot Station             058012   27/06/1939   17/12/1987   17/12/1987   Ongoing
+Coffs Harbour MO                059040   01/02/1943   03/04/2002   03/04/2002   Ongoing
+Port Macquarie Airport AWS      060139   X            X            06/05/1995   Ongoing
+Williamtown RAAF                061078   01/09/1942   07/07/1999   07/07/1999   Ongoing
+Scone Airport AWS               061363   X            X            12/01/1990   Ongoing
+Bathurst Agricultural Station   063005   01/01/1909   26/05/1998   20/11/1969   Ongoing
+Dubbo Airport AWS               065070   X            X            06/11/1997   Ongoing
+Sydney (Observatory Hill)       066062   01/01/1900   20/01/2000   20/01/2000   Ongoing
+Richmond RAAF                   067105   X            X            13/10/1997   Ongoing
+Nowra Ran Air Station AWS       068072   X            X            09/11/2000   Ongoing
+Point Perpendicular AWS         068151   X            X            03/05/2001   Ongoing
+Moruya Heads Pilot Station      069018   01/01/1900   Ongoing      X            X
+Wagga Wagga AMO                 072150   01/02/1941   10/01/2001   10/01/2001   Ongoing
+Cabramurra Smhea AWS            072161   X            X            10/12/1996   Ongoing
+Wyalong Post Office             073054   11/09/1950   13/04/1988   13/04/1988   Ongoing
+Deniliquin Airport AWS          074258   X            X            03/06/1997   Ongoing
+Mildura Airport                 076031   02/01/1946   03/05/2000   03/05/2000   Ongoing
+Nhill Aerodrome                 078015   X            X            11/06/2003   Ongoing
+Kerang                          080023   X            X            01/01/1903   Ongoing
+Rutherglen Research             082039   X            X            01/01/1913   Ongoing
+Gabo Island Lighthouse          084016   X            X            01/01/1900   Ongoing
+Orbost (Comparison)             084030   01/01/1938   13/04/1972   13/04/1972   Ongoing
+East Sale Airport               085072   01/05/1943   08/04/2003   08/04/2003   Ongoing
+Wilsons Promontory Lighthouse   085096   01/01/1900   18/09/2000   18/09/2000   Ongoing
+Melbourne Regional Office       086071   31/10/1967   30/01/2001   29/01/2001   Ongoing
+Laverton RAAF                   087031   01/06/1941   15/08/1999   22/02/1997   Ongoing
+Cape Otway Lighthouse           090015   X            X            01/01/1900   Ongoing
+Low Head                        091293   X            X            05/11/1997   Ongoing
+Launceston Airport              091311   X            X            14/06/2004   Ongoing
+Eddystone Point                 092045   01/08/1908   24/07/1997   24/07/1997   Ongoing
+Cape Bruny Lighthouse           094010   01/01/1900   26/03/1991   26/03/1991   Ongoing
+Hobart (Ellerslie Road)         094029   01/01/1900   08/11/2007   08/11/2007   Ongoing
+Butlers Gorge                   096003   X            X            25/10/1989   Ongoing
