@@ -36,4 +36,14 @@ drive_extract_txt.py uses pdf2txt defined in extract_txt_onepdf.py
 
 3. Create directory "csvfiles", link "stations_v9a.dat" (190 MB, containing all Australian SAT data - not available here due to size constraints)
 
+4. Run interpret_onetxt.py to extract meta data in one .txt file into a .csv file
+(i.e. process one station). This file has the following dependencies:
+4.1. interpret_classes.py containing class definitions
+4.2. stations_v9a.dat containing all SAT data (e.g. monthly Tmax of all Australian stations)
+4.3. stationsdef5.py containing class definitions of stations_v9a.dat
+
+
+
+
+
 
