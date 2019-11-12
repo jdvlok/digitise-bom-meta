@@ -25,3 +25,4 @@ The following procedure should be followed to extract and digitise the BoM metad
 3.1 download BoM station alpha files (Tmax/Tmin monthly/daily station meta data files)
 3.2 create AUS_SATlist.txt containing BoM station numbers of all surface air temperature (SAT) measuring stations
 
+4. Run download_bom_meta_files.py
